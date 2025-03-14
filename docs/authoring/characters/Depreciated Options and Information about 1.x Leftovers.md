@@ -18,5 +18,3 @@ Older char.inis may contain sections or options not mentioned in this guide. Her
 Extremely old file bases may have characters that have files with the prefix "`(c)`". These are a remnant of a never-realized feature in AO1 that would allow the specification of a third animation to play once the character was done talking. It was never implemented, and thus `(c)` emotes went unused until 2.9.x.
 
 Another commonality in AO1-era file bases is the presence of a "DemoThings" folder located under `misc/`. This folder's name is somewhat nonsensical - on AO1, its purpose was to store the `char_icon` of every character so that they could be displayed on the character selection screen. AO2 uses the much more sane solution of storing the icon inside the character folder.
-
-Many assets used in the UI were also stored in `misc/` on AO1 - as themes were nonexistent - some of which have seen continued use to this day - including the ever-popular Missingno placeholder.
